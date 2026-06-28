@@ -1,0 +1,176 @@
+[
+  {
+    "id": "tops",
+    "name": "Tops",
+    "gender": "women",
+    "image": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "minimal",
+      "second skin",
+      "soft fit"
+    ],
+    "sortOrder": 1,
+    "showInMenTab": false,
+    "showInWomenTab": true
+  },
+  {
+    "id": "shapewear",
+    "name": "Shapewear",
+    "gender": "women",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "sculpt",
+      "smooth",
+      "body"
+    ],
+    "sortOrder": 2,
+    "showInMenTab": false,
+    "showInWomenTab": true
+  },
+  {
+    "id": "loungewear",
+    "name": "Loungewear",
+    "gender": "women",
+    "image": "https://images.unsplash.com/photo-1506629905607-d405d7d3b0d2?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "soft lounge",
+      "ribbed",
+      "sets"
+    ],
+    "sortOrder": 3,
+    "showInMenTab": false,
+    "showInWomenTab": true
+  },
+  {
+    "id": "w-sports",
+    "name": "W Sports",
+    "gender": "women",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "studio",
+      "training",
+      "movement"
+    ],
+    "sortOrder": 4,
+    "showInMenTab": false,
+    "showInWomenTab": true
+  },
+  {
+    "id": "jewellery",
+    "name": "Jewellery",
+    "gender": "unisex",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "gold",
+      "minimal",
+      "statement"
+    ],
+    "sortOrder": 5,
+    "showInMenTab": true,
+    "showInWomenTab": true
+  },
+  {
+    "id": "bags",
+    "name": "Bags",
+    "gender": "unisex",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "gym",
+      "beach",
+      "everyday"
+    ],
+    "sortOrder": 6,
+    "showInMenTab": true,
+    "showInWomenTab": true
+  },
+  {
+    "id": "sunglasses",
+    "name": "Sunglasses",
+    "gender": "unisex",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "classic",
+      "bold",
+      "summer"
+    ],
+    "sortOrder": 7,
+    "showInMenTab": true,
+    "showInWomenTab": true
+  },
+  {
+    "id": "hats",
+    "name": "Hats",
+    "gender": "unisex",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "cap",
+      "beach",
+      "sport"
+    ],
+    "sortOrder": 8,
+    "showInMenTab": true,
+    "showInWomenTab": true
+  },
+  {
+    "id": "m-sports",
+    "name": "M Sports",
+    "gender": "men",
+    "image": "https://images.unsplash.com/photo-1571019613914-85f342c6a11e?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": true,
+    "styles": [
+      "golf style",
+      "performance",
+      "club"
+    ],
+    "sortOrder": 9,
+    "showInMenTab": true,
+    "showInWomenTab": false
+  },
+  {
+    "id": "women-sale",
+    "name": "Women Sale",
+    "gender": "women",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": false,
+    "styles": [
+      "sale",
+      "last sizes"
+    ],
+    "sortOrder": 10,
+    "showInMenTab": false,
+    "showInWomenTab": true
+  },
+  {
+    "id": "men-sale",
+    "name": "Men Sale",
+    "gender": "men",
+    "image": "https://images.unsplash.com/photo-1506629905607-d405d7d3b0d2?q=80&w=1200&auto=format&fit=crop",
+    "mediaType": "image",
+    "featured": false,
+    "styles": [
+      "sale",
+      "last sizes"
+    ],
+    "sortOrder": 11,
+    "showInMenTab": true,
+    "showInWomenTab": false
+  }
+]
